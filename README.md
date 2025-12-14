@@ -1,4 +1,7 @@
 # Real-Time Revenue Market Balance Optimization System
+# Dashboard
+
+Below is a preview of the system dashboard:
 
 ## Project Goal
 This project aims to analyze and optimize the revenue and market balance of NYC taxi services using real-time and historical data. The system leverages ClickHouse for fast analytical queries and Grafana for interactive data visualization. The primary objectives are to:
@@ -17,7 +20,8 @@ This project aims to analyze and optimize the revenue and market balance of NYC 
 ## Example Dashboard
 Below is a sample of the current dashboard visualizing key statistics before and after data cleaning:
 
-![Dashboard](dashboard.png)
+![Dashboard](Dashboard.png)
+
 
 ---
 For more details, see the `scripts/anomaly_analysis.sql` file and the `nyc_taxi` ClickHouse database.
