@@ -17,7 +17,7 @@ This project aims to analyze and optimize the revenue and market balance of NYC 
 - **Statistical Analysis:** Panels built to compare raw and cleaned data statistics
 - **Visualization:** Grafana dashboards created to monitor data quality and trends
 
-## Example Dashboard
+## Dashboard
 Below is a sample of the current dashboard visualizing key statistics before and after data cleaning:
 
 ![Dashboard](Dashboard.png)
